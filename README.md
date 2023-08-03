@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ... developing a NodeJS server that is 5 times the scale that i used to be capable of 
-- 🌱 I’m currently learning ... that it scares the shit out me but am somehow enjoying it
 - ✨ I'm interested in ... backend development and how to refrain from simple repetitive coding
-- ⚡ Fun fact: ... never expected myself to be coding until two years ago
+- ⚡ Fun fact: ... never expected myself to be coding until two years ago, but...
+  - Started to dive into coding because connecting the dots of short-term immersion is always fun!
 
 ---
 
