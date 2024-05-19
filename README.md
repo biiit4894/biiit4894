@@ -23,8 +23,8 @@
 ## 👩‍💻 Portfolio
 |기간|프로젝트명|주요 Stack|비고|결과|
 |------|--------------|---|----------|---|
-|`24.04.24`~`24.05.16`|🏙 서울 실시간 도시데이터 조회 서비스 ['WhatSeoul'](https://github.com/WhatSEOUL/WhatSeoul)|Spring boot|ESTsoft 백엔드 개발자 양성 과정 4기 파이널 프로젝트| |
-|`24.03.25`~`24.04.05`|💻 키보드 타자 속도 경쟁 커뮤니티 서비스 ['Keyboard Arena'](https://github.com/Garodden/keyboard-arena)|Spring boot|ESTsoft 백엔드 개발자 양성 과정 4기 2차 프로젝트 |우수상 수상|
+|`24.04.24`~`24.05.16`|🏙 서울 실시간 도시데이터 조회 서비스 ['WhatSeoul'](https://github.com/WhatSEOUL/WhatSeoul)|Springboot|ESTsoft 백엔드 개발자 양성 과정 4기 파이널 프로젝트| |
+|`24.03.25`~`24.04.05`|💻 키보드 타자 속도 경쟁 커뮤니티 서비스 ['Keyboard Arena'](https://github.com/Garodden/keyboard-arena)|Springboot|ESTsoft 백엔드 개발자 양성 과정 4기 2차 프로젝트 |우수상 수상|
 |`24.01.15`~`24.01.23`|😺 ['호두'](https://github.com/biiit4894/hodu-fe-project) 퍼블리싱 미니 프로젝트|HTML/CSS, JS|ESTsoft 백엔드 개발자 양성 과정 4기 미니 프로젝트|우수상 수상|
 |`23.03.01`~`23.09.18`|✏ 고등학생을 위한 생활기록부 관리 서비스 ['생기부 인사이드'](https://github.com/Team-SGBInside/SGBInside-Server)|Node.js, React.js|숙명여대 IT공학전공(복수전공) 졸업 프로젝트| |
 |`23.05.02`~`23.08.19`|☕ 카페 투어 개설 및 스탬프 적립 서비스 ['소복'](https://github.com/jobofbrothers-sobok/SOBOK-SERVER)|Node.js|숙명여대 캠퍼스타운 스타트업 MVP 개발지원 서포터즈 '잇다' 활동| |
@@ -53,6 +53,7 @@
   <img alt="Amazon RDS" src ="https://img.shields.io/badge/Amazon RDS-527FFF.svg?&style=for-the-badge&logo=Amazon RDS&logoColor=white"/>
   
   Once I've used...<br>
+  <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/><br>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-1D63ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Github Actions" src ="https://img.shields.io/badge/Github Actions-000000.svg?&style=for-the-badge&logo=github actions&logoColor=white"/>
   
@@ -65,6 +66,7 @@
   
   Once I've used...<br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/axios-9F1E9F.svg?style=for-the-badge&logo=axios&logoColor=61DAFB">
   
   
   ### ⛏ Tools ⛏
