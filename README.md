@@ -1,21 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=80&section=header&text=Hanbit%20Jang&fontSize=30&fontAlign=15)
+<div align=center>
 
-<!--
-**biiit4894/biiit4894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## ✨ Hanbit Jang ✨
+안녕하세요, 법학을 전공했으나<br>아이디어를 실현하는 웹 개발의 매력에 빠져<br> 백엔드 개발 위주의 경험을 쌓아오고 있는 장한빛입니다.<br>
 
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- ✨ I'm interested in ... backend development and how to refrain from simple repetitive coding
-- ⚡ Fun fact: ... never expected myself to be coding until two years ago, but...
-  - Started to dive into coding because connecting the dots of short-term immersion is always fun!
+**👪 소통하는 개발자입니다. 👪** <br>
+구두 회의를 통해 업무 진행상황을 투명하게 공유하며,<br>코드 형상관리와 문서화로 협업 과정을 기록합니다.<br>
+
+**💻 유연하게 업무를 분담합니다. 💻**<br>
+팀 내 업무의 재분담 또는 인력의 재배치가 필요한 경우,<br>
+구현을 담당한 기능 외의 분야에도 적극적으로 기여합니다.
+
+**👩‍💻 리더와 팔로워의 역할을 모두 수행합니다. 👩‍💻**<br>
+팀 내 필요와 상황에 따라<br> 리더의 역할을 수행하는 것과,<br>
+리더를 보조하는 팔로워의 역할을 수행하는 것 모두에 익숙합니다.
+
+**💡 필요를 헤아리는 개발자가 되고자 합니다. 💡** <br>
+궁극적으로는 IT 서비스를 통해<br> 사회의 필요를 헤아릴 수 있는 개발자가 되고자 합니다. 
+
+</div>
 
 ---
 
@@ -74,12 +77,4 @@ Here are some ideas to get you started:
   <img alt="Figma" src ="https://img.shields.io/badge/figma-C382DF.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
   <img alt="Miro" src ="https://img.shields.io/badge/miro-050038.svg?&style=for-the-badge&logo=miro&logoColor=white"/>
 </div>
-
-
-
-
-
-
-
-
  
