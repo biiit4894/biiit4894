@@ -20,7 +20,13 @@
 
 </div>
 
----
+## Portfolio
+|기간|서비스|담당|비고|
+|------|--------------|---|---|
+|2024.04.24~2024.05.16|[서울 실시간 도시데이터 조회 서비스 'WhatSeoul'](https://github.com/WhatSEOUL/WhatSeoul)|BE(Spring Boot), FE(HTML/CSS, JS) 개발|ESTsoft 백엔드 개발자 양성 과정 4기 파이널 프로젝트|
+|2024.03.25~2024.04.05|[키보드 타자 속도 경쟁 커뮤니티 서비스 'Keyboard Arena'](https://github.com/Garodden/keyboard-arena)|BE(Spring Boot), FE(HTML/CSS, JS) 개발|ESTsoft 백엔드 개발자 양성 과정 4기 2차 프로젝트 우수상 수상|
+|2023.03.01~2023.09.18|[고등학생을 위한 생활기록부 관리 서비스 '생기부 인사이드'](https://github.com/Team-SGBInside/SGBInside-Server)|BE(Node.js), FE 일부(React.js) 개발|숙명여대 IT공학전공(복수전공) 졸업 프로젝트|
+|2023.05.02~2023.08.19|[카페 투어 개설 및 스탬프 적립 서비스 '소복'](https://github.com/jobofbrothers-sobok/SOBOK-SERVER)|BE(Node.js) 개발|숙명여대 캠퍼스타운 스타트업 MVP 개발지원 서포터즈 '잇다' 활동|
 
 <div align=center>
   
