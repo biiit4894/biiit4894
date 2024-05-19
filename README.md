@@ -1,6 +1,5 @@
-<div align=center>
-
 ## ✨ Hanbit Jang ✨
+<div align=center>
 안녕하세요, 법학을 전공했으나<br>아이디어를 실현하는 웹 개발의 매력에 빠져<br> 백엔드 개발 위주의 경험을 쌓아오고 있는 장한빛입니다.<br>
 
 
@@ -30,10 +29,9 @@
 |`23.05.02`~`23.08.19`|☕ 카페 투어 개설 및 스탬프 적립 서비스 ['소복'](https://github.com/jobofbrothers-sobok/SOBOK-SERVER)|Node.js|숙명여대 캠퍼스타운 스타트업 MVP 개발지원 서포터즈 '잇다' 활동| |
 |`23.01.01`~`23.05.09`|🥗 식습관 관리 앱서비스 ['킵고잇'](https://github.com/Team-KeepGoEat/KeepGoEat-Server)|Node.js|대학생 연합 IT 벤처창업 동아리 SOPT 31기| **APPJAM** 대상 수상 |
 |`22.07.22`~`22.08.15`|👷‍♂️ 데이터 저널리즘 웹 기사 ['환경미화원의 가슴에 만보기가 달린 이유'](https://github.com/biiit4894/surfer-2nd)|HTML/CSS, JS|데이터 저널리즘 동아리 SURFER | **2022 제 5회 KDJA 한국 데이터 저널리즘 어워드** [올해의 영 데이터 저널리스트 상](http://datajournalismawards.kr/award_list/) 수상 |
-<div align=center>
-  
-  ## 🛠 Tech Stacks 🛠
-  
+
+## 🛠 Tech Stacks 🛠
+<div align=center>  
   ### 🚀 Back-End 🚀
   Language & Framework<br>
   <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
