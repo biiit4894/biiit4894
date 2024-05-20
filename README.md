@@ -25,7 +25,7 @@
 |------|--------------|---|----------|---|
 |`24.04.24`~`24.05.16`|🏙 서울 실시간 도시데이터 조회 서비스 ['WhatSeoul'](https://github.com/WhatSEOUL/WhatSeoul)|`Springboot`|ESTsoft 백엔드 개발자 양성 과정 4기 파이널 프로젝트| |
 |`24.03.25`~`24.04.05`|💻 키보드 타자 속도 경쟁 커뮤니티 서비스 ['Keyboard Arena'](https://github.com/Garodden/keyboard-arena)|`Springboot`|ESTsoft 백엔드 개발자 양성 과정 4기 2차 프로젝트 |우수상 수상|
-|`24.01.15`~`24.01.23`|😺 ['호두'](https://github.com/biiit4894/hodu-fe-project) 퍼블리싱 미니 프로젝트|HTML/CSS, JS|ESTsoft 백엔드 개발자 양성 과정 4기 미니 프로젝트|우수상 수상|
+|`24.01.15`~`24.01.23`|😺 ['호두'](https://github.com/biiit4894/hodu-fe-project) 퍼블리싱 미니 프로젝트|`HTML/CSS`, `JS`|ESTsoft 백엔드 개발자 양성 과정 4기 미니 프로젝트|우수상 수상|
 |`23.03.01`~`23.09.18`|✏ 고등학생을 위한 생활기록부 관리 서비스 ['생기부 인사이드'](https://github.com/Team-SGBInside/SGBInside-Server)|`Node.js`, `React.js`|숙명여대 IT공학전공(복수전공) 졸업 프로젝트| |
 |`23.05.02`~`23.08.19`|☕ 카페 투어 개설 및 스탬프 적립 서비스 ['소복'](https://github.com/jobofbrothers-sobok/SOBOK-SERVER)|`Node.js`|숙명여대 캠퍼스타운 스타트업 MVP 개발지원 서포터즈 '잇다' 활동| |
 |`23.01.01`~`23.05.09`|🥗 식습관 관리 앱서비스 ['킵고잇'](https://github.com/Team-KeepGoEat/KeepGoEat-Server)|`Node.js`|대학생 연합 IT 벤처창업 동아리 SOPT 31기| **APPJAM** 대상 수상 |
@@ -33,8 +33,8 @@
 <br>
 
 ## 👨‍👩‍👧‍👦 Experience
-|기간|경험사항|비고|Link|
-|------|--------------|----------|---|
+|기간|경험사항|유형|비고|Link|
+|------|--------------|-----|----------|---|
 |`2024.01~2024.05`|🏃‍♀️ ESTsoft 백엔드 개발자 양성 과정 '오르미' 4기 수료|K-Digital Training|`java`, `Spring` 학습 및 프로젝트 진행|[-TIL](https://brick-rainbow-789.notion.site/ESTsoft-4-TIL-Today-I-Learned-c212a839e336483abb763540f07bfc9b)<br> [미니 프로젝트](https://github.com/biiit4894/hodu-fe-project)<br> [2차 프로젝트](https://github.com/Garodden/keyboard-arena)<br> [파이널 프로젝트](https://github.com/WhatSEOUL/WhatSeoul)
 |`2023.05~2023.08`|🔹 숙명여대 캠퍼스타운 스타트업 MVP 개발지원 서포터즈 '잇다' 활동|교내 비교과활동|웹 에이전시의 MVP 프로젝트 '소복' 백엔드 개발 진행|[소복](https://github.com/jobofbrothers-sobok/SOBOK-SERVER)|
 |`2022.10~2023.01`|⚫ 대학생 연합 IT벤처창업 동아리 SOPT 31기 서버파트 YB|동아리|`Node.js` 학습, 앱서비스 '킵고잇' 서버 개발 참여|[킵고잇](https://github.com/Team-KeepGoEat/KeepGoEat-Server)
