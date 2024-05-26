@@ -37,7 +37,7 @@
 |------|--------------|-----|----------|---|
 |`2024.01~2024.05`|🏃‍♀️ ESTsoft 백엔드 개발자 양성 과정 '오르미' 4기 수료|K-Digital Training|`java`, `Spring` 학습 및 프로젝트 진행|[1. TIL](https://brick-rainbow-789.notion.site/ESTsoft-4-TIL-Today-I-Learned-c212a839e336483abb763540f07bfc9b)<br> [2. 미니 프로젝트](https://github.com/biiit4894/hodu-fe-project)<br> [3. 2차 프로젝트](https://github.com/Garodden/keyboard-arena)<br> [4. 파이널 프로젝트](https://github.com/WhatSEOUL/WhatSeoul)
 |`2023.05~2023.08`|🔹 숙명여대 캠퍼스타운 스타트업 MVP 개발지원 서포터즈 '잇다' 활동|교내 비교과활동|웹 에이전시의 MVP 프로젝트 '소복' 백엔드 개발 진행|[소복](https://github.com/jobofbrothers-sobok/SOBOK-SERVER)|
-|`2022.10~2023.01`|⚫ 대학생 연합 IT벤처창업 동아리 SOPT 31기 서버파트 YB|동아리|`Node.js` 학습, 앱서비스 '킵고잇' 서버 개발 참여|[킵고잇](https://github.com/Team-KeepGoEat/KeepGoEat-Server)
+|`2022.09~2023.01`|⚫ 대학생 연합 IT벤처창업 동아리 SOPT 31기 서버파트 YB|동아리|`Node.js` 학습, 앱서비스 '킵고잇' 서버 개발 참여|[킵고잇](https://github.com/Team-KeepGoEat/KeepGoEat-Server)
 |`2022.01~2022.11`|📚 데이터 저널리즘 동아리 SURFER 개발팀장 | 동아리 | 데이터 저널리즘 기반 웹 기사 퍼블리싱 2회 진행 |[1차 프로젝트](https://projectsurfer.netlify.app/)<br> [2차 프로젝트](https://surfer-2nd.netlify.app/)|
 |`2021.12~2022.12`|🔸 웹 개발 동아리 멋쟁이사자처럼 숙명여대 10기 운영진|동아리|동아리 운영 및 리크루팅 참여, `Django` 및 `React.js` 기초 세미나 6회 진행| [활동 기록](https://brick-rainbow-789.notion.site/10-1731e2d6fc5e42e986c48488f1622e98) |
 |`2021.03~2021.11`|🔸 웹 개발 동아리 멋쟁이사자처럼 숙명여대 9기 부원|동아리|`Django` 학습, 웹서비스 'Meet Wizard' 개발 참여|[활동 기록](https://brick-rainbow-789.notion.site/9-f098da3854b04c719f6760daea355c3c) |
@@ -87,7 +87,7 @@
   <img alt="Git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <br>
   
-  IDEA<br>
+  IDE<br>
   <img alt="Intellij IDEA" src ="https://img.shields.io/badge/Intellij Idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img alt="VSCode" src ="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   
