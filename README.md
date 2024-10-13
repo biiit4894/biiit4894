@@ -33,7 +33,7 @@
 <img alt="Github" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="Git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <br>
 
-Interested in...<br>
+I'm currently nterested in...<br>
 <img alt="Amazon EC2" src ="https://img.shields.io/badge/AWS-FF9900.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img alt="Docker" src ="https://img.shields.io/badge/Docker-1D63ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white"/> <img alt="Github Actions" src ="https://img.shields.io/badge/Github Actions-000000.svg?&style=for-the-badge&logo=github actions&logoColor=white"/>
 
 Once I've used...<br>
