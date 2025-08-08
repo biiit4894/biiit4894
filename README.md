@@ -27,7 +27,7 @@
 |`2021.03~2021.11`|🔸 웹 개발 동아리 멋쟁이사자처럼 숙명여대 9기 부원|동아리|`Django` 학습, 웹서비스 'Meet Wizard' 개발 참여|[활동 기록](https://brick-rainbow-789.notion.site/9-f098da3854b04c719f6760daea355c3c) |
 <br>
 
-## 🛠 Tech Stacks 🛠
+### 🛠 Tech Stacks 🛠
 <img alt="Springboot 3.2.5" src ="https://img.shields.io/badge/Springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="Spring data JPA" src ="https://img.shields.io/badge/JPA-444AA1.svg?&style=for-the-badge&logo=jpa&logoColor=white"/> <br>
 
 <img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/><br> 
@@ -36,7 +36,8 @@
 <br>
 
 I can use...<br>
-<img alt="Amazon EC2" src ="https://img.shields.io/badge/AWS-FF9900.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img alt="Docker" src ="https://img.shields.io/badge/Docker-1D63ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img alt="Amazon EC2" src ="https://img.shields.io/badge/AWS-FF9900.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white"/> <img alt="Github Actions" src="https://img.shields.io/badge/github actions-000000?style=for-the-badge&logo=githubactions&logoColor=white"/> <img alt="Nginx" src="https://img.shields.io/badge/nginx-008000?style=for-the-badge&logo=nginx&logoColor=white"/>
+
 
 Once I've used...<br>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"><br>
