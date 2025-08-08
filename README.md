@@ -2,10 +2,10 @@
 몰입과 도전이 좋아 개발하는 사람입니다✨<br>
 [벨로그](https://velog.io/@biiit4894/posts)도 차근차근 기록하는 중😚<br><br>
 
-### 👩‍💻 Portfolio
+### 👩‍💻 Projects
 |기간|프로젝트명|주요 Stack|비고|
 |------|--------------|---|----------|
-|`25.03.23`~`진행중`|🌇 서울 실시간 도시데이터 조회 서비스 ['왓서울'](https://github.com/WhatSEOUL/WhatSeoul)|`Spring Boot`| 기존 프로젝트 개선 진행중 |
+|`25.03.23`~`진행중`|🌇 서울 실시간 도시데이터 조회 서비스 ['왓서울'](https://github.com/biiit4894/what_seoul)|`Spring Boot`| 기존 프로젝트 개선 진행중 |
 |`24.04.24`~`24.05.16`|🏙 서울 실시간 도시데이터 조회 서비스 ['왓서울'](https://github.com/WhatSEOUL/WhatSeoul)|`Spring Boot`|  |
 |`24.03.25`~`24.04.05`|💻 키보드 타자 속도 경쟁 커뮤니티 서비스 ['Keyboard Arena'](https://github.com/Garodden/keyboard-arena)|`Spring Boot`|교육과정 우수상 수상|
 |`24.01.15`~`24.01.23`|😺 ['호두'](https://github.com/biiit4894/hodu-fe-project) 퍼블리싱 미니 프로젝트|`HTML/CSS`, `JS`|교육과정 우수상 수상|
