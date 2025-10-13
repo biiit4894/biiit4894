@@ -27,6 +27,7 @@
 |`23.01.01`~`23.05.09`|🥗 식습관 관리 앱서비스 ['킵고잇'](https://github.com/Team-KeepGoEat/KeepGoEat-Server)|`Node.js`|대학생 연합 IT 벤처창업 동아리 SOPT **APPJAM** 대상 수상|
 |`22.07.22`~`22.08.15`|👷‍♂️ 데이터 저널리즘 웹 기사 ['환경미화원의 가슴에 만보기가 달린 이유'](https://github.com/biiit4894/surfer-2nd)|`HTML/CSS`, `JS`|**2022 제 5회 KDJA 한국 데이터 저널리즘 어워드** [올해의 영 데이터 저널리스트 상](http://datajournalismawards.kr/award_list/) 수상 |
 <br>
+
 ### 🛠 Tech Stacks 🛠
 <img alt="Springboot 3.2.5" src ="https://img.shields.io/badge/Springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="Spring data JPA" src ="https://img.shields.io/badge/JPA-444AA1.svg?&style=for-the-badge&logo=jpa&logoColor=white"/> <br>
 
