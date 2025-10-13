@@ -15,6 +15,18 @@
 |`2021.03~2021.11`|🔸 웹 개발 동아리 멋쟁이사자처럼 숙명여대 9기 부원|`Django` 학습, 웹서비스 'Meet Wizard' 개발 참여|[활동 기록](https://brick-rainbow-789.notion.site/9-f098da3854b04c719f6760daea355c3c) |
 <br>
 
+### 👩‍💻 Projects
+|기간|프로젝트명|주요 Stack|비고|
+|------|--------------|---|----------|
+|`25.03.03`~`진행중`|🌇 서울 실시간 도시데이터 조회 서비스 ['왓서울'](https://github.com/biiit4894/what_seoul)|`Spring Boot`| 기존 프로젝트 개선 진행중 |
+|`24.04.24`~`24.05.16`|🏙 서울 실시간 도시데이터 조회 서비스 ['왓서울'](https://github.com/WhatSEOUL/WhatSeoul)|`Spring Boot`|  |
+|`24.03.25`~`24.04.05`|💻 키보드 타자 속도 경쟁 커뮤니티 서비스 ['Keyboard Arena'](https://github.com/Garodden/keyboard-arena)|`Spring Boot`|교육과정 우수상 수상|
+|`24.01.15`~`24.01.23`|😺 ['호두'](https://github.com/biiit4894/hodu-fe-project) 퍼블리싱 미니 프로젝트|`HTML/CSS`, `JS`|교육과정 우수상 수상|
+|`23.03.01`~`23.09.18`|✏ 고등학생을 위한 생활기록부 관리 서비스 ['생기부 인사이드'](https://github.com/Team-SGBInside/SGBInside-Server)|`Node.js`, `React.js`|IT공학전공(복수전공) 졸업 프로젝트|
+|`23.05.02`~`23.08.19`|☕ 카페 투어 개설 및 스탬프 적립 서비스 ['소복'](https://github.com/jobofbrothers-sobok/SOBOK-SERVER)|`Node.js`|캠퍼스타운 스타트업 MVP 개발지원 서포터즈 '잇다' 활동|
+|`23.01.01`~`23.05.09`|🥗 식습관 관리 앱서비스 ['킵고잇'](https://github.com/Team-KeepGoEat/KeepGoEat-Server)|`Node.js`|대학생 연합 IT 벤처창업 동아리 SOPT **APPJAM** 대상 수상|
+|`22.07.22`~`22.08.15`|👷‍♂️ 데이터 저널리즘 웹 기사 ['환경미화원의 가슴에 만보기가 달린 이유'](https://github.com/biiit4894/surfer-2nd)|`HTML/CSS`, `JS`|**2022 제 5회 KDJA 한국 데이터 저널리즘 어워드** [올해의 영 데이터 저널리스트 상](http://datajournalismawards.kr/award_list/) 수상 |
+<br>
 ### 🛠 Tech Stacks 🛠
 <img alt="Springboot 3.2.5" src ="https://img.shields.io/badge/Springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="Spring data JPA" src ="https://img.shields.io/badge/JPA-444AA1.svg?&style=for-the-badge&logo=jpa&logoColor=white"/> <br>
 
