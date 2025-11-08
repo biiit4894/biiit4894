@@ -1,8 +1,8 @@
 ## ✨ Hanbit Jang 
-몰입과 도전이 좋아 개발하는 사람입니다✨<br>
-[벨로그](https://velog.io/@biiit4894/posts)도 차근차근 기록하는 중 (이전 준비중..)<br><br>
 Currently interning as a Backend developer mainly using Java, Spring Boot and MySQL. <br>
 Not really Hagrid but I sometimes look alike, just without magical powers<br><br>
+몰입과 도전이 좋아 개발하는 사람입니다✨<br>
+[벨로그](https://velog.io/@biiit4894/posts)도 차근차근 기록하는 중 (이전 준비중..)<br><br>
 
 
 ### 👨‍💻 Experience
