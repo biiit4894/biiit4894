@@ -11,8 +11,8 @@ Not really Hagrid but I sometimes look alike, just without magical powers<br><br
 - Campus Town Startup Supporters **_“ITDA(잇다)”_**, Sookmyung Women’s University (Seoul, South Korea) — May 2023 – Aug 2023
 - **_SOPT_** 31st Server Part (University IT Startup Club) (Seoul, South Korea) — Sep 2022 – Jan 2023
 - **_SURFER_** (Data Journalism Club) — Jan 2022 – Nov 2022
-- **_LikeLion Sookmyung Univ. 10th_** – Core Member — Dec 2021 – Dec 2022
-- **_LikeLion Sookmyung Univ. 9th_** – Member — Mar 2021 – Nov 2021
+- **_LikeLion Sookmyung Univ. 10th_** (Seoul, South Korea) – Core Member — Dec 2021 – Dec 2022
+- **_LikeLion Sookmyung Univ. 9th_** (Seoul, South Korea) – Member — Mar 2021 – Nov 2021
 <br><br>
 
 ### 🛠 Tech Stacks 🛠
