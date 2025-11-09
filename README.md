@@ -2,8 +2,8 @@
 몰입과 도전이 좋아 개발하는 사람입니다✨<br>
 [벨로그](https://velog.io/@biiit4894/posts)도 차근차근 기록하는 중 (이전 준비중..)<br><br>
 
-Not really Hagrid but I sometimes look alike, just without magical powers<br><br>
-Interested in backend development, currently interning as a backend developer.
+Not really Hagrid but I sometimes look alike, just without magical powers.
+Interested in backend development, currently interning as a backend developer. <br><br>
 
 ### 👨‍💻 Experience
 - Backend Developer Intern, **_Helper Robotics_** (Seoul, South Korea) — Jul 2024 – Oct 2024
